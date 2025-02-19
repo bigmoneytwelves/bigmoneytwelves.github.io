@@ -7,3 +7,4 @@
 <a href="https://bigmoneytwelves.github.io/bigmoneytwelves.github.io/writing.html" title="Writing">Writing</a>
 
 <a href="https://bigmoneytwelves.github.io/bigmoneytwelves.github.io/contact.html" title="Contact">Contact</a>
+
