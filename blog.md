@@ -1,1 +1,1 @@
-<a href="beartwelves.substack.com"> Blog </a>
+<a href="Blog"> beartwelves.substack.com </a>
