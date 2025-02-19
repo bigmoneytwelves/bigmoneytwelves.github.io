@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Contact me</title>
+  <title> Contact me </title>
 </head>
 
 <body>
