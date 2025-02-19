@@ -4,3 +4,20 @@ description: [headshoto of andrew twelves] assets/images/headshot
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# baseurl: ""
+permalink: /blog/:slug
+timezone: America/New_York
+future: false
+
+exclude:
+- README.md
+- LICENSE.md
+
+exclude: [vendor]
+
+About: /about
+Blog: /blog
+Media: /media
+Writing: /writing
+Contact: /contact
