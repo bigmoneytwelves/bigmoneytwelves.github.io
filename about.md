@@ -10,4 +10,4 @@ My current projects focus around how to combat ReformUK’s complete dominance o
 
 See [organiselab] if interested in the latter, contact me [here] if interested in the former.
 
-I blog at beartwelves.substack.com. 
+I blog at <a href="beartwelves.substack.com">beartwelves.substack.com </a>
